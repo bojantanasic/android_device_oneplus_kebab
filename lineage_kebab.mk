@@ -23,8 +23,8 @@ PRODUCT_MODEL := KB2005
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="OnePlus8T-user 14 UKQ1.230924.001 R.1887f28-81d9-81db release-keys" \
-    BuildFingerprint=OnePlus/OnePlus8T/OnePlus8T:14/UKQ1.230924.001/R.1887f28-81d9-81db:user/release-keys \
+        BuildDesc="OnePlus8T-user 14 UKQ1.230924.001 R.196abd8-2-3 release-keys" \
+    BuildFingerprint=OnePlus/OnePlus8T/OnePlus8T:14/UKQ1.230924.001/R.196abd8-2-3:user/release-keys \
     DeviceName=OnePlus8T \
     DeviceProduct=OnePlus8T \
     SystemDevice=OnePlus8T \
